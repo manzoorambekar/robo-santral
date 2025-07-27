@@ -1,7 +1,6 @@
 # RoboSantral, An Autonomous Guiding Robot
 
-It which has been designed and realized in order to guide the visitors through a museum. This robot accompanies guests through the museum and gives presentations on predefined locations. Location data is obtained from RFID tags pasted on particular location.
-A RFID reader reads the targets such as faculty buildings, museums etc. These are recognized by the pre-defined tags. A voice playback unit using SD card is used to playback the information of particular location. IR sensors are used for obstacle detection.
+An autonomous robot designed to guide visitors through museums using RFID tags for location detection, IR sensors for obstacle avoidance, and a voice playback unit for providing information. Developed as part of a Bachelor's thesis.
 
 ![image](https://user-images.githubusercontent.com/119945099/214969968-086ad2eb-1f38-4762-96c5-16810308d22a.png)
 
